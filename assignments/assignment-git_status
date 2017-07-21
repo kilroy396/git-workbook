@@ -1,0 +1,6 @@
+1) Create a new text file in your repo; you can use your “normal” tools for this, don’t feel tied to the command line as the repo is just a normal directory with a few superpowers.
+
+then run 'git status'
+then 'git add' the file to the repo
+the check status with 'git status'
+then do a 'git commit' and use the vim editor (the default config editor)
